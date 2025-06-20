@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(to right, #e8f0f7, #ffffff);
+}
+.card {
+  border-radius: 1rem;
+}
+#calendar {
+  max-width: 100%;
+  margin: 0 auto;
+  height: 500px;
+}
+.navbar .nav-link.active {
+    color: #ffc107 !important;
+    font-weight: bold;
+    border-bottom: 2px solid #ffc107;
+}
+.navbar .dropdown-menu a:hover {
+    background-color: #f8f9fa;
+}
